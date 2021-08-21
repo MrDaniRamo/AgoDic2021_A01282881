@@ -1,0 +1,39 @@
+
+body {
+    background-color: SteelBlue;
+  }
+  
+  img {
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+  }
+  
+  .carrera{
+    font-size : 20px;
+    color : white;
+    font-family : courier;
+    
+  }
+  
+  h1{
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    background-color: salmon;
+    margin-bottom : 20px;
+    color: GhostWhite;
+  }
+  
+  ul {
+    list-stlye-position : inside;
+    border-style : solid;
+    border-color : white;
+  }
+  
+  address {
+    float : right;
+    margin-right : 20px;
+    margin-bottom: 20px;
+    font-weight :  bold;
+  }
